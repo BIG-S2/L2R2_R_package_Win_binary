@@ -1,7 +1,10 @@
 # L2R2
-Programs for L2R2 model in the manuscript "Bayesian longitudinal low-rank regression models for imaging genetic data from longitudinal studies"
+Programs for
 
-This L2R2 package is developed by Zhao-Hua Lu and Hongtu Zhu from the [BIG-S2 lab](http://odin.mdacc.tmc.edu/bigs2/). The package is also available on the [BIG-S2 GitHub site](https://github.com/BIG-S2).
+1. Hongtu Zhu, Zakaria Khondker, Zhaohua Lu & Joseph G. Ibrahim. Bayesian Generalized Low Rank Regression Models for Neuroimaging Phenotypes and Genetic Markers. Journal of the American Statistical Association. 2014; 109 (507) 977-990.
+2. The L2R2 model in the manuscript "Bayesian longitudinal low-rank regression models for imaging genetic data from longitudinal studies"
+
+This L2R2 R package is developed by Zhao-Hua Lu and Hongtu Zhu from the [BIG-S2 lab](http://odin.mdacc.tmc.edu/bigs2/). The package is also available on the [BIG-S2 GitHub site](https://github.com/BIG-S2).
 
 ![BIG-S2](https://avatars3.githubusercontent.com/u/22728420?v=3&s=400 "BIG-S2")
 
